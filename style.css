@@ -1,0 +1,16 @@
+:root {
+
+    --bs-warning-rgb: 230, 127, 3;
+
+    --bs-warning: rgb(var(--bs-warning-rgb));
+
+}
+
+
+.btn-warning {
+
+    background-color: var(--bs-warning);
+
+    border-color: var(--bs-warning);
+
+}
